@@ -4,7 +4,7 @@ var options = {
     method: 'GET',
     headers: {
     	'Host': 'api.cognitive.microsoft.com',
-        'Ocp-Apim-Subscription-Key': 'cc301c543a044ff6b5f1f82fca2c86d3'
+        'Ocp-Apim-Subscription-Key': 'YOUR-KEY'
     },
 
     
